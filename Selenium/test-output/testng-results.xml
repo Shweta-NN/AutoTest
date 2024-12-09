@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-03T12:42:25 IST" name="Default suite" finished-at="2024-12-03T12:42:43 IST" duration-ms="18034">
+    <groups>
+    </groups>
+    <test started-at="2024-12-03T12:42:25 IST" name="Default test" finished-at="2024-12-03T12:42:43 IST" duration-ms="18034">
+      <class name="runnerscript.Flip_kart">
+        <test-method signature="buynow()[pri:0, instance:runnerscript.Flip_kart@73e22a3d]" started-at="2024-12-03T12:42:25 IST" name="buynow" finished-at="2024-12-03T12:42:43 IST" duration-ms="17965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buynow -->
+      </class> <!-- runnerscript.Flip_kart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
